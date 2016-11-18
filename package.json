@@ -1,0 +1,10 @@
+{
+  "name": "test-vis-graph3d",
+  "version": "1.0.0",
+  "description": "Test for graphing in 3d with vis.js",
+  "author": "Wink Saville",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "vis": "^4.17.0"
+  }
+}
